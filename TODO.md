@@ -1,6 +1,6 @@
 - [ ] IP Address  [ ]
     - [ ] Geolocation  [ ]
-        - [ ] My IP Address  [ ]
+        - [ x ] My IP Address  [ ]
         - [ ] ipTRACKERonline  [ ]
         - [ ] InfobyIP.com  [ ]
         - [ ] utrace  [ ]
