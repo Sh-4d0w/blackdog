@@ -1,0 +1,29 @@
+{
+  "name": "blackdog",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "exec": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessorJamesBach/blackdog.git"
+  },
+  "author": "Hugo Henrique <mxhugoxm@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfessorJamesBach/blackdog/issues"
+  },
+  "homepage": "https://github.com/ProfessorJamesBach/blackdog#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-group-routes": "^1.1.0",
+    "fs": "0.0.1-security",
+    "ip2location-nodejs": "^8.4.0",
+    "path": "^0.12.7"
+  }
+}
