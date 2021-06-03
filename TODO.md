@@ -9,7 +9,7 @@
         - [ ] DB-IP  [ ]
         - [ ] IP Fingerprints  [ ]  
         - [ ] IP2Location.com  [ ]
-        - [ ] IPv4/IPv6 lists by country code  [ ]
+        - [x] IPv4/IPv6 lists by country code - [ 2 - jun - 2021 ]
         - [ ] MaxMind Demo  [ ]
     - [ ] Host / Port Discovery  [ ]     
         - [ ]  Masscan (T)  [ ]
