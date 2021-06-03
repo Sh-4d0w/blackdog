@@ -32,18 +32,15 @@ class Ipverse:
         returns the country IP block list
         :return: list
         """
-        countryIpv4List = []
         r = requests.get(self._url +country.lower() + ".zone")
-        for cidr in r.text.splitlines():
-            if not cidr.startswith("#"):
-                countryIpv4List.append(ipaddress.ip_network(cidr, False))
-        return countryIpv4List
+        return [
+            ipaddress.ip_network(cidr, False)
+            for cidr in r.text.splitlines()
+            if not cidr.startswith("#")
+        ]
 
     def get_range_ip_by_mask(self, range):
-        rangeip = []
-        for ip in ipaddress.IPv4Network(range):
-            rangeip.append(ip)
-        return rangeip
+        return [ip for ip in ipaddress.IPv4Network(range)]
 
     def find_ip_in_date(self):
         """
