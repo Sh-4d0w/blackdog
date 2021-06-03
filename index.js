@@ -26,7 +26,6 @@ app.group("/ip2location", (router) => {
 		fs.readdirSync(__dirname+"/databases").forEach(file => {
 			databases.push(__dirname + "/databases/" + file);
 		})
-		console.log(databases);
 		let result = []
 		databases.forEach(database => {
 			ip2loc.IP2Location_init(database)
