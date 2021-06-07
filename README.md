@@ -1,5 +1,5 @@
 # blackdog 
-![logo]()
+![logo](https://raw.githubusercontent.com/darkcode357/blackdog/master/data/icon.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![version_pkg](https://img.shields.io/pypi/pyversions/blackdog?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
