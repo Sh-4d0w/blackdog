@@ -12,12 +12,12 @@ Me apresento como darkcode e gosto pra caramba de criar softwares de segurança 
 
 <img align="right" width="300" src="https://miro.medium.com/max/724/1*Dpf3zGMTvMZ94ydA2qIYmA.png" /> 
 
-> api criada com o intuito de ajudar os analista a coletar e tirar metrica de informações,juntamente com os seus hunters diarios 
+> API criada com o intuito de ajudar os analistas a coletar métricas de informações juntamente com seus Hunters diários.
 
 ### Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-previsto para dia 16 de julho de 2021 
+previsto para dia 16 de julho de 2021:
 
 - [ ] class para pegar csrf
 - [ ] class para formatação de dados 
