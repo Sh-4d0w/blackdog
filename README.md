@@ -86,7 +86,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143044941_1060472194472667_3130351146826201803_n.jpg%3Fccb%3D11-4%26oh%3D225e543c023b95c7d5007fdd60ec7bce%26oe%3D60C3FA1D&t=l&u=553299029303%40c.us&i=1612130664&n=vTvsSeacJerryXLusFlW2UxMZln2LkUJZtkqb9%2F9C2Q%3D"/><br>
+        <img src="https://media-exp1.licdn.com/dms/image/C5603AQFIjR4zTdUOfA/profile-displayphoto-shrink_400_400/0/1609254173063?e=1628726400&v=beta&t=g0INNW4_eji1ZNFfxHBZuIma37IpUg1SyCcBQhC3Akc"/><br>
         <sub>
           <b>Gabriel Testoni  </b>
         </sub>
