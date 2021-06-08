@@ -7,12 +7,12 @@
 
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-### Oie devs 👋
+### eae devs 👋
 Me apresento como darkcode e gosto pra caramba de criar softwares de segurança da informação. 
 
 <img align="right" width="300" src="https://miro.medium.com/max/724/1*Dpf3zGMTvMZ94ydA2qIYmA.png" /> 
 
-> API criada com o intuito de ajudar os analistas a coletar métricas de informações juntamente com seus Hunters diários.
+>A criação desse projeto tem o intuito de ser a maior API de OSINT no mundo, onde poderá ser amplamente implementada em fontes privadas e públicas, para mecanismos como o SIEM, equipes de Blue Team e Red Team possa tirar proveito das métricas de informações e correlacionamento de muitas fontes de uma mesma informação. Assim tendo uma análise de superfície maior de acordo com várias referências e pontos de vista.  
 
 ### Ajustes e melhorias
 
@@ -44,6 +44,8 @@ apt install python3-pip
 pip3 install poetry
 poetry install 
 poetry shell 
+python 
+import blackdog 
 ```
 
 ## ☕ Usando blackdog
@@ -81,7 +83,15 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
         </sub>
       </a>
     </td>
-  
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://web.whatsapp.com/pp?e=https%3A%2F%2Fpps.whatsapp.net%2Fv%2Ft61.24694-24%2F143044941_1060472194472667_3130351146826201803_n.jpg%3Fccb%3D11-4%26oh%3D225e543c023b95c7d5007fdd60ec7bce%26oe%3D60C3FA1D&t=l&u=553299029303%40c.us&i=1612130664&n=vTvsSeacJerryXLusFlW2UxMZln2LkUJZtkqb9%2F9C2Q%3D"/><br>
+        <sub>
+          <b>Gabriel Testoni  </b>
+        </sub>
+      </a>
+    </td>    
 </table>
 
 
