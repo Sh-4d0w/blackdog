@@ -79,7 +79,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://media-exp1.licdn.com/dms/image/C4E03AQETeN8Ae_G47Q/profile-displayphoto-shrink_800_800/0/1588520685826?e=1628726400&v=beta&t=P_vFOy63koI9rr3D_ndXC0ZPcSPwzDRX0PAn_UHEBfQ"/><br>
         <sub>
-          <b>Luiz Corrêa</b>
+          <b>Luiz Corrêa (master dev)</b>
         </sub>
       </a>
     </td>
@@ -88,7 +88,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://media-exp1.licdn.com/dms/image/C5603AQFIjR4zTdUOfA/profile-displayphoto-shrink_400_400/0/1609254173063?e=1628726400&v=beta&t=g0INNW4_eji1ZNFfxHBZuIma37IpUg1SyCcBQhC3Akc"/><br>
         <sub>
-          <b>Gabriel Testoni  </b>
+          <b>Gabriel Testoni (revisor ortografico) </b>
         </sub>
       </a>
     </td>    
