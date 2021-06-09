@@ -1,44 +1,44 @@
-# blackdog 
+# blackdog
 ![logo](https://raw.githubusercontent.com/darkcode357/blackdog/master/data/icon.png)
 ![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
 ![version_pkg](https://img.shields.io/pypi/pyversions/blackdog?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="exemplo-image.png" alt="exemplo imagem">
+<img src="exemplo-image.png" alt="example image">
 
-### eae devs 👋
-Me apresento como darkcode e gosto pra caramba de criar softwares de segurança da informação. 
+### heyy devs 👋
+I present myself as darkcode and I really like to create information security software.
 
-<img align="right" width="300" src="https://miro.medium.com/max/724/1*Dpf3zGMTvMZ94ydA2qIYmA.png" /> 
+<img align="right" width="300" src="https://miro.medium.com/max/724/1*Dpf3zGMTvMZ94ydA2qIYmA.png" />
 
->A criação desse projeto tem o intuito de ser a maior API de OSINT no mundo, onde poderá ser amplamente implementada em fontes privadas e públicas, para mecanismos como o SIEM, equipes de Blue Team e Red Team possa tirar proveito das métricas de informações e correlacionamento de muitas fontes de uma mesma informação. Assim tendo uma análise de superfície maior de acordo com várias referências e pontos de vista.  
+> The creation of this project is intended to be the largest OSINT API in the world, where it can be widely implemented in private and public sources, so mechanisms such as SIEM, Blue Team and Red Team teams can take advantage of information and correlation metrics from many sources of the same information. Thus having a larger surface analysis according to various references and points of view.
 
-### Ajustes e melhorias
+### Adjustments and improvements
 
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-previsto para dia 16 de julho de 2021:
+The project is still under development and future updates will focus on the following tasks:
+scheduled for July 16, 2021:
 
-- [ ] class para pegar csrf
-- [ ] class para formatação de dados 
-- [ ] criação do readme 
-- [ ] ajuste do readme 
-- [ ] publicação oficial 
-- [ ] criar uma descrição para o projeto 
+- [ ] class to get csrf
+- [ ] class for data formatting
+- [ ] readme creation
+- [ ] readme adjustment
+- [ ] official publication
+- [ ] create a description for the project
 
-## 💻 Pré-requisitos
+## 💻 Prerequisites
 
-Antes de começar, verifique se você atendeu aos seguintes requisitos:
+Before starting, make sure you have met the following requirements:
 
-* Você instalou a versão mais recente do `< python e suas dependencias >`?
-* projeto atualmente suportado por `Linux/unix`. 
-* `leia a documentação do projeto`.
+* Have you installed the latest version of `< python and its dependencies >`?
+* project currently supported by `Linux/unix`.
+* `read the project documentation`.
 
-## 🚀 Instalando  blackdog 
+## 🚀 Installing blackdog
 
-Para instalar o blackdog, siga estas etapas:
+To install blackdog, follow these steps:
 
-Linux e unix:
+Linux and unix:
 ```
 apt install python3-pip
 pip3 install poetry
@@ -48,30 +48,30 @@ python
 import blackdog 
 ```
 
-## ☕ Usando blackdog
+## ☕ Using blackdog
 
-Para usar blackdog, siga estas etapas:
+To use blackdog, follow these steps:
 
 ```
-<exemplo_de_uso>
+<use_example>
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+Add run commands and examples that you think users will find useful. Provides a reference of options for bonus points!
 
-## 📫 Contribuindo para blackdog 
-Para contribuir com o blackdog , siga estas etapas:
+## 📫 Contributing to blackdog
+To contribute to blackdog , follow these steps:
 
-1. Bifurque este repositório.
-2. Crie um branch: `git checkout -b <nome_branch>`.
-3. Faça suas alterações e confirme-as: `git commit -m '<mensagem_commit>'`
-4. Envie para o branch original: `git push origin  blackdog  / <local>`
-5. Crie a solicitação de pull.
+1. Fork this repository.
+2. Create a branch: `git checkout -b <branch_name>`.
+3. Make your changes and commit them: `git commit -m '<commit_message>'`
+4. Send to the original branch: `git push origin blackdog / <local>`
+5. Create the pull request.
 
-Como alternativa, consulte a documentação do GitHub em [como criar uma solicitação pull](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively, check the GitHub documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+We thank the following people who contributed to this project:
 
 <table>
   <tr>
@@ -88,22 +88,22 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="#">
         <img src="https://media-exp1.licdn.com/dms/image/C5603AQFIjR4zTdUOfA/profile-displayphoto-shrink_400_400/0/1609254173063?e=1628726400&v=beta&t=g0INNW4_eji1ZNFfxHBZuIma37IpUg1SyCcBQhC3Akc"/><br>
         <sub>
-          <b>Gabriel Testoni (revisor ortografico) </b>
+          <b>Gabriel Testoni (proofreader) </b>
         </sub>
       </a>
     </td>    
 </table>
 
 
-## 😄 Seja um dos contribuidores<br>
+## 😄 Be one of the contributors<br>
 
-Quer fazer parte desse projeto? Clique [AQUI](CONTRIBUTING.md) e leia como contribuir.
+Do you want to be part of this project? Click [HERE](CONTRIBUTING.md) and read how to contribute.
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
-[⬆ Voltar ao topo](#blackdog)<br>
+[Back to the top](#blackdog)<br>
 
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -116,7 +116,7 @@ class BlackDog:
 ```
 
 
-#### Rede Sociais!
+#### Social Medias!
 
 🏡 [website][website]
 📺 [youtube][youtube]
